@@ -1,0 +1,16 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_widgets.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  main.cpp
+D:\Development\C++\imgui base\examples\example_win32_directx9\main.cpp(120,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Development\C++\imgui base\examples\example_win32_directx9\main.cpp(120,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Development\C++\imgui base\examples\example_win32_directx9\main.cpp(90,10): warning C4189: 'show_demo_window': local variable is initialized but not referenced
+D:\Development\C++\imgui base\examples\example_win32_directx9\main.cpp(91,10): warning C4189: 'show_another_window': local variable is initialized but not referenced
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 965 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  example_win32_directx9.vcxproj -> D:\Development\C++\imgui base\examples\example_win32_directx9\Release\base_win32_directx9.exe

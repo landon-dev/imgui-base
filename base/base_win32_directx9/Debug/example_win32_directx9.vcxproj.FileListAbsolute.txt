@@ -1,0 +1,2 @@
+D:\Development\C++\imgui base\examples\example_win32_directx9\Debug\base_win32_directx9.exe
+D:\Development\C++\imgui base\examples\example_win32_directx9\Debug\base_win32_directx9.pdb

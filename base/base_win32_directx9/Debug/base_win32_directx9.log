@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(603,1): warning C4005: 'TEXT': macro redefinition
+D:\Development\C++\imgui base\src\base\base_win32_directx9\themes.h(10): message : see previous definition of 'TEXT'
+D:\Development\C++\imgui base\src\base\base_win32_directx9\main.cpp(126,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Development\C++\imgui base\src\base\base_win32_directx9\main.cpp(126,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Development\C++\imgui base\src\base\base_win32_directx9\main.cpp(96,10): warning C4189: 'show_demo_window': local variable is initialized but not referenced
+D:\Development\C++\imgui base\src\base\base_win32_directx9\main.cpp(97,10): warning C4189: 'show_another_window': local variable is initialized but not referenced
+  base_win32_directx9.vcxproj -> D:\Development\C++\imgui base\src\base\base_win32_directx9\Debug\base_win32_directx9.exe
